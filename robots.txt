@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://krhois.csgad.com/KxV/sitemap.xml.gz
